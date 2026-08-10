@@ -45,6 +45,8 @@ https://raw.githubusercontent.com/tschmitt777/godfinder-data/main/churches.json
 | `j`  | Jurisdiktion, sofern bekannt (230 von 374) |
 | `w`  | Website, sofern hinterlegt |
 | `sched` | Gottesdienstzeiten als reiner Text, Zeilen mit `\n` getrennt (213 von 374) |
+| `e` | E-Mail-Adresse der Gemeinde (128 von 374) |
+| `p` | Telefonnummer der Gemeinde (102 von 374) |
 
 ### Jurisdiktionen
 
