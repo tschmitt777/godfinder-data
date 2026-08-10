@@ -47,6 +47,7 @@ https://raw.githubusercontent.com/tschmitt777/godfinder-data/main/churches.json
 | `sched` | Gottesdienstzeiten als reiner Text, Zeilen mit `\n` getrennt (213 von 374) |
 | `e` | E-Mail-Adresse der Gemeinde (128 von 374) |
 | `p` | Telefonnummer der Gemeinde (102 von 374) |
+| `prec` | Fehlt = Punkt sitzt genau auf dem Gebäude. `"street"` = nur die Straße ist bekannt. `"city"` = nur der Ort. |
 
 ### Jurisdiktionen
 
@@ -59,11 +60,19 @@ ließ, bleibt das Feld leer — es wird nichts geraten.
 
 ### Genauigkeit der Koordinaten
 
-- **151 Einträge** sind auf die genaue Straßenadresse verortet (OpenStreetMap)
-- **184 Einträge** liegen auf Stadtebene, weil nur ein Ort bekannt ist
-- **39 Einträge** liegen auf Stadtebene aus einer früheren GeoNames-Abfrage
+| Genauigkeit | Anzahl | Feld `prec` |
+|---|---|---|
+| Gebäude oder Gebetsort | 128 | fehlt |
+| nur die Straße bekannt | 22 | `"street"` |
+| nur der Ort bekannt | 224 | `"city"` |
 
-Die Herkunft steht pro Eintrag im CMS-Feld `source`.
+OpenStreetMap kennt längst nicht jede Hausnummer. Wo die Hausnummer fehlt,
+liefert es einen Punkt auf der Straße — der kann mehrere hundert Meter daneben
+liegen. Solche Punkte sind als `prec` gekennzeichnet, damit die Karte sie
+gestrichelt darstellen und "ungefähre Lage" anzeigen kann, statt eine
+Genauigkeit vorzutäuschen.
+
+Die Herkunft steht pro Eintrag auch im CMS-Feld `source`.
 
 ## Herkunft und Lizenz
 
