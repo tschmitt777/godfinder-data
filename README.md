@@ -42,8 +42,18 @@ https://raw.githubusercontent.com/tschmitt777/godfinder-data/main/churches.json
 | `lat` / `lng` | Koordinaten (WGS 84) |
 | `v`  | 1 = geprüft, 0 = ohne Gewähr |
 | `s`  | Slug (für spätere Detailseiten) |
-| `j`  | Jurisdiktion, sofern hinterlegt |
+| `j`  | Jurisdiktion, sofern bekannt (230 von 374) |
 | `w`  | Website, sofern hinterlegt |
+| `sched` | Gottesdienstzeiten als reiner Text, Zeilen mit `\n` getrennt (213 von 374) |
+
+### Jurisdiktionen
+
+`Greek` · `Russian (ROC)` · `Russian (ROCOR)` · `Russian` · `Serbian` ·
+`Romanian` · `Bulgarian` · `Georgian` · `Ukrainian` · `Antiochian`
+
+`Russian` ohne Zusatz heißt: belegt russisch-orthodox, aber ob ROCOR oder ROC
+geht aus den vorliegenden Angaben nicht hervor. Wo sich gar nichts belegen
+ließ, bleibt das Feld leer — es wird nichts geraten.
 
 ### Genauigkeit der Koordinaten
 
