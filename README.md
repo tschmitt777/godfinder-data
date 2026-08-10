@@ -48,6 +48,8 @@ https://raw.githubusercontent.com/tschmitt777/godfinder-data/main/churches.json
 | `e` | E-Mail-Adresse der Gemeinde (128 von 374) |
 | `p` | Telefonnummer der Gemeinde (102 von 374) |
 | `prec` | Fehlt = Punkt sitzt genau auf dem Gebäude. `"street"` = nur die Straße ist bekannt. `"city"` = nur der Ort. |
+| `img` | Foto (nur echte Fotos, keine Platzhalter) |
+| `cr` | Bildnachweis: Urheber und Lizenz — bei Creative-Commons-Bildern Pflicht |
 
 ### Jurisdiktionen
 
