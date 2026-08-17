@@ -51,6 +51,21 @@ https://raw.githubusercontent.com/tschmitt777/godfinder-data/main/churches.json
 | `img` | Foto (nur echte Fotos, keine Platzhalter) |
 | `cr` | Bildnachweis: Urheber und Lizenz — bei Creative-Commons-Bildern Pflicht |
 
+### cityAlias
+
+Neben `churches` enthält die Datei `cityAlias` — die Namen jeder Stadt in
+23 Sprachen (Englisch, Russisch, Griechisch, Chinesisch, Arabisch,
+Georgisch, Armenisch, Serbisch, Bulgarisch, Ukrainisch, Türkisch,
+Polnisch …). Damit findet die Suche der Karte jede Stadt in jeder Schrift,
+**ohne einen fremden Dienst zu befragen**.
+
+```json
+"cityAlias": { "München": ["Munich","Мюнхен","慕尼黑","Μόναχο","ميونخ", ...] }
+```
+
+Erzeugt von `stadt-aliase.py`. Nur Schreibweisen, die vom deutschen Namen
+abweichen, werden gespeichert.
+
 ### Jurisdiktionen
 
 `Greek` · `Russian (ROC)` · `Russian (ROCOR)` · `Russian` · `Serbian` ·
