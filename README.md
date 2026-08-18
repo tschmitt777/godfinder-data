@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/tschmitt777/godfinder-data/main/churches.json
 ```json
 {
   "generated": "2026-08-08T22:03:15Z",
-  "count": 374,
+  "count": 891,
   "churches": [
     {
       "n":   "Saint Sergius of Radonezh Orthodox Church Bad Kissingen",
@@ -42,18 +42,18 @@ https://raw.githubusercontent.com/tschmitt777/godfinder-data/main/churches.json
 | `lat` / `lng` | Koordinaten (WGS 84) |
 | `v`  | 1 = geprüft, 0 = ohne Gewähr |
 | `s`  | Slug (für spätere Detailseiten) |
-| `j`  | Jurisdiktion, sofern bekannt (230 von 374) |
+| `j`  | Jurisdiktion, sofern bekannt (626 von 891) |
 | `w`  | Website, sofern hinterlegt |
-| `sched` | Gottesdienstzeiten als reiner Text, Zeilen mit `\n` getrennt (213 von 374) |
-| `e` | E-Mail-Adresse der Gemeinde (128 von 374) |
-| `p` | Telefonnummer der Gemeinde (102 von 374) |
+| `sched` | Gottesdienstzeiten als reiner Text, Zeilen mit `\n` getrennt (231 von 891) |
+| `e` | E-Mail-Adresse der Gemeinde |
+| `p` | Telefonnummer der Gemeinde |
 | `prec` | Fehlt = Punkt sitzt genau auf dem Gebäude. `"street"` = nur die Straße ist bekannt. `"city"` = nur der Ort. |
 | `img` | Foto (nur echte Fotos, keine Platzhalter) |
 | `cr` | Bildnachweis: Urheber und Lizenz — bei Creative-Commons-Bildern Pflicht |
 
 ### cityAlias
 
-Neben `churches` enthält die Datei `cityAlias` — die Namen jeder Stadt in
+Neben `churches` enthält die Datei `cityAlias` — die Namen von 509 Städten in
 23 Sprachen (Englisch, Russisch, Griechisch, Chinesisch, Arabisch,
 Georgisch, Armenisch, Serbisch, Bulgarisch, Ukrainisch, Türkisch,
 Polnisch …). Damit findet die Suche der Karte jede Stadt in jeder Schrift,
@@ -69,7 +69,8 @@ abweichen, werden gespeichert.
 ### Jurisdiktionen
 
 `Greek` · `Russian (ROC)` · `Russian (ROCOR)` · `Russian` · `Serbian` ·
-`Romanian` · `Bulgarian` · `Georgian` · `Ukrainian` · `Antiochian`
+`Romanian` · `Bulgarian` · `Georgian` · `Ukrainian` · `Antiochian` ·
+`Macedonian` · `OCA`
 
 `Russian` ohne Zusatz heißt: belegt russisch-orthodox, aber ob ROCOR oder ROC
 geht aus den vorliegenden Angaben nicht hervor. Wo sich gar nichts belegen
@@ -77,11 +78,11 @@ ließ, bleibt das Feld leer — es wird nichts geraten.
 
 ### Genauigkeit der Koordinaten
 
-| Genauigkeit | Anzahl | Feld `prec` |
-|---|---|---|
-| Gebäude oder Gebetsort | 128 | fehlt |
-| nur die Straße bekannt | 22 | `"street"` |
-| nur der Ort bekannt | 224 | `"city"` |
+| Genauigkeit | Feld `prec` |
+|---|---|
+| Gebäude oder Gebetsort | fehlt |
+| nur die Straße bekannt | `"street"` |
+| nur der Ort bekannt | `"city"` |
 
 OpenStreetMap kennt längst nicht jede Hausnummer. Wo die Hausnummer fehlt,
 liefert es einen Punkt auf der Straße — der kann mehrere hundert Meter daneben
@@ -94,8 +95,15 @@ Die Herkunft steht pro Eintrag auch im CMS-Feld `source`.
 ## Herkunft und Lizenz
 
 Die Koordinaten stammen von [OpenStreetMap](https://openstreetmap.org/copyright)
-(Nominatim) sowie von GeoNames. Die Gemeindedaten selbst werden redaktionell
+(Nominatim und Overpass, Lizenz ODbL) sowie von GeoNames. Ein Teil der
+Gemeinden selbst stammt ebenfalls aus OpenStreetMap; der Rest wird
+redaktionell aus den offiziellen Bistums- und Gemeindeverzeichnissen
 gepflegt.
+
+**Nicht enthalten** sind die altorientalischen Kirchen — koptisch,
+syrisch-orthodox, armenisch-apostolisch, malankarisch, äthiopisch. Sie
+nennen sich ebenfalls „orthodox", stehen aber nicht in derselben
+Kirchengemeinschaft wie die byzantinisch-orthodoxen Kirchen.
 
 **Fehler gefunden?** [Issue aufmachen](https://github.com/tschmitt777/godfinder-data/issues)
 oder auf godfinder.world melden.
