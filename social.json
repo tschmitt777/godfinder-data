@@ -1,6 +1,33 @@
 {
- "stand": "2026-10-06T00:31:02",
+ "stand": "2026-10-07T07:30:03",
  "eigene": [
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=0RydpblOYc8",
+   "titel": "Why Does God Allow Suffering Like This?",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/0RydpblOYc8/maxresdefault.jpg",
+   "datum": "2026-10-07"
+  },
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=v0ZB5PqHsyc",
+   "titel": "Why Do Sacramental Marriages Fall Apart? Grace, Free Will & Hardness of Heart",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/v0ZB5PqHsyc/maxresdefault.jpg",
+   "datum": "2026-10-06"
+  },
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=bWtI4oUbDEY",
+   "titel": "Why You Feel Alone With Thousands of Contacts in Your Phone",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/bWtI4oUbDEY/maxresdefault.jpg",
+   "datum": "2026-10-06"
+  },
   {
    "quelle": "youtube",
    "eigen": true,
@@ -45,33 +72,6 @@
    "autor": "Godfinder",
    "bild": "https://i.ytimg.com/vi/iCkcEtg1atI/maxresdefault.jpg",
    "datum": "2026-10-02"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=4nLalAR_5qA",
-   "titel": "Jesus says #35",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/4nLalAR_5qA/maxresdefault.jpg",
-   "datum": "2026-10-01"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=r5AcfF5-oVg",
-   "titel": "Jesus says #34",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/r5AcfF5-oVg/maxresdefault.jpg",
-   "datum": "2026-09-30"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=xbK0QtXkJQc",
-   "titel": "The Fear That Had a God's Name (Revelation 2:10)",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/xbK0QtXkJQc/maxresdefault.jpg",
-   "datum": "2026-09-29"
   }
  ],
  "geteilt": []
