@@ -1,6 +1,15 @@
 {
- "stand": "2026-10-07T07:30:03",
+ "stand": "2026-10-08T07:37:28",
  "eigene": [
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=H5tGJjqlCEc",
+   "titel": "Jesus says #44",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/H5tGJjqlCEc/maxresdefault.jpg",
+   "datum": "2026-10-07"
+  },
   {
    "quelle": "youtube",
    "eigen": true,
@@ -62,15 +71,6 @@
    "titel": "Luke 6:32: Why Loving Only Those Who Love You Back Is Not Grace",
    "autor": "Godfinder",
    "bild": "https://i.ytimg.com/vi/iRDs0jGLae4/maxresdefault.jpg",
-   "datum": "2026-10-02"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=iCkcEtg1atI",
-   "titel": "Jesus says #36",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/iCkcEtg1atI/maxresdefault.jpg",
    "datum": "2026-10-02"
   }
  ],
