@@ -1,6 +1,24 @@
 {
- "stand": "2026-10-08T07:37:28",
+ "stand": "2026-10-09T07:30:04",
  "eigene": [
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=orpYbAuYpWM",
+   "titel": "Why Do I Feel So Far From God?",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/orpYbAuYpWM/maxresdefault.jpg",
+   "datum": "2026-10-09"
+  },
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=_JElVv-t70k",
+   "titel": "Why Every Addiction Is Really a Thirst for God (Augustine, Confession, Recovery)",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/_JElVv-t70k/maxresdefault.jpg",
+   "datum": "2026-10-08"
+  },
   {
    "quelle": "youtube",
    "eigen": true,
@@ -54,24 +72,6 @@
    "autor": "Godfinder",
    "bild": "https://i.ytimg.com/vi/1gsdNFtuDv4/maxresdefault.jpg",
    "datum": "2026-10-04"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=4ySRkVke6RI",
-   "titel": "Jesus says #37",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/4ySRkVke6RI/maxresdefault.jpg",
-   "datum": "2026-10-03"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=iRDs0jGLae4",
-   "titel": "Luke 6:32: Why Loving Only Those Who Love You Back Is Not Grace",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/iRDs0jGLae4/maxresdefault.jpg",
-   "datum": "2026-10-02"
   }
  ],
  "geteilt": []
