@@ -1,6 +1,15 @@
 {
- "stand": "2026-10-09T07:30:04",
+ "stand": "2026-10-10T07:30:06",
  "eigene": [
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=Gx-G2_nnm1g",
+   "titel": "Jesus says #43",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/Gx-G2_nnm1g/maxresdefault.jpg",
+   "datum": "2026-10-09"
+  },
   {
    "quelle": "youtube",
    "eigen": true,
@@ -63,15 +72,6 @@
    "autor": "Godfinder",
    "bild": "https://i.ytimg.com/vi/wd8hfo97MX4/maxresdefault.jpg",
    "datum": "2026-10-05"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=1gsdNFtuDv4",
-   "titel": "Jesus says #38",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/1gsdNFtuDv4/maxresdefault.jpg",
-   "datum": "2026-10-04"
   }
  ],
  "geteilt": []
