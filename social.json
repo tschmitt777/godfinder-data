@@ -1,6 +1,24 @@
 {
- "stand": "2026-10-10T07:30:06",
+ "stand": "2026-10-12T07:30:03",
  "eigene": [
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=yWiQ46q2_Yg",
+   "titel": "Jesus says #42",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/yWiQ46q2_Yg/maxresdefault.jpg",
+   "datum": "2026-10-11"
+  },
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=AxdUOr4_mSo",
+   "titel": "Fear of Aging, Biohacking, and the Fear of Death: Orthodox View on Mortality",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/AxdUOr4_mSo/maxresdefault.jpg",
+   "datum": "2026-10-10"
+  },
   {
    "quelle": "youtube",
    "eigen": true,
@@ -54,24 +72,6 @@
    "autor": "Godfinder",
    "bild": "https://i.ytimg.com/vi/v0ZB5PqHsyc/maxresdefault.jpg",
    "datum": "2026-10-06"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=bWtI4oUbDEY",
-   "titel": "Why You Feel Alone With Thousands of Contacts in Your Phone",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/bWtI4oUbDEY/maxresdefault.jpg",
-   "datum": "2026-10-06"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=wd8hfo97MX4",
-   "titel": "Jesus says #39",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/wd8hfo97MX4/maxresdefault.jpg",
-   "datum": "2026-10-05"
   }
  ],
  "geteilt": []
