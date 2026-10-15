@@ -1,6 +1,33 @@
 {
- "stand": "2026-10-12T07:30:03",
+ "stand": "2026-10-15T07:45:54",
  "eigene": [
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=0Zb9SNDTLMY",
+   "titel": "Jesus says #45",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/0Zb9SNDTLMY/maxresdefault.jpg",
+   "datum": "2026-10-14"
+  },
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=kJnXPcgn-bc",
+   "titel": "Jesus says #41",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/kJnXPcgn-bc/maxresdefault.jpg",
+   "datum": "2026-10-13"
+  },
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=wu0821___uA",
+   "titel": "Forgiving Betrayal: Why It's Not Amnesia, It's a Spiritual Operation",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/wu0821___uA/maxresdefault.jpg",
+   "datum": "2026-10-12"
+  },
   {
    "quelle": "youtube",
    "eigen": true,
@@ -45,33 +72,6 @@
    "autor": "Godfinder",
    "bild": "https://i.ytimg.com/vi/_JElVv-t70k/maxresdefault.jpg",
    "datum": "2026-10-08"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=H5tGJjqlCEc",
-   "titel": "Jesus says #44",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/H5tGJjqlCEc/maxresdefault.jpg",
-   "datum": "2026-10-07"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=0RydpblOYc8",
-   "titel": "Why Does God Allow Suffering Like This?",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/0RydpblOYc8/maxresdefault.jpg",
-   "datum": "2026-10-07"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=v0ZB5PqHsyc",
-   "titel": "Why Do Sacramental Marriages Fall Apart? Grace, Free Will & Hardness of Heart",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/v0ZB5PqHsyc/maxresdefault.jpg",
-   "datum": "2026-10-06"
   }
  ],
  "geteilt": []
