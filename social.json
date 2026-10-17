@@ -1,6 +1,24 @@
 {
- "stand": "2026-10-15T07:45:54",
+ "stand": "2026-10-17T07:42:36",
  "eigene": [
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=3dNVFpepNkc",
+   "titel": "Humility vs. Playing the Victim: What True Christian Humility Means",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/3dNVFpepNkc/maxresdefault.jpg",
+   "datum": "2026-10-16"
+  },
+  {
+   "quelle": "youtube",
+   "eigen": true,
+   "url": "https://www.youtube.com/watch?v=qlEG23QSbKs",
+   "titel": "\"I am no more in the world\" - John 17:11 - Jesus' Prayer for His Followers",
+   "autor": "Godfinder",
+   "bild": "https://i.ytimg.com/vi/qlEG23QSbKs/maxresdefault.jpg",
+   "datum": "2026-10-15"
+  },
   {
    "quelle": "youtube",
    "eigen": true,
@@ -54,24 +72,6 @@
    "autor": "Godfinder",
    "bild": "https://i.ytimg.com/vi/Gx-G2_nnm1g/maxresdefault.jpg",
    "datum": "2026-10-09"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=orpYbAuYpWM",
-   "titel": "Why Do I Feel So Far From God?",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/orpYbAuYpWM/maxresdefault.jpg",
-   "datum": "2026-10-09"
-  },
-  {
-   "quelle": "youtube",
-   "eigen": true,
-   "url": "https://www.youtube.com/watch?v=_JElVv-t70k",
-   "titel": "Why Every Addiction Is Really a Thirst for God (Augustine, Confession, Recovery)",
-   "autor": "Godfinder",
-   "bild": "https://i.ytimg.com/vi/_JElVv-t70k/maxresdefault.jpg",
-   "datum": "2026-10-08"
   }
  ],
  "geteilt": []
